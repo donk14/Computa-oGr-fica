@@ -1,2 +1,2 @@
-# Computa-oGr-fica
+# ComputacaoGrafica
 Trabalho Mini-Paint
